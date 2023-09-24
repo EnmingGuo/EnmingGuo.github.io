@@ -10,8 +10,8 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-<!--     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %} -->
-    {% if author.bio %}<p class="author__bio"><a href="resume/Enming Guo Resume.pdf" download>{{ author.bio }}</a></p>{% endif %}
+    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+<!--     {% if author.bio %}<p class="author__bio"><a href="resume/Enming Guo Resume.pdf" download>{{ author.bio }}</a></p>{% endif %} -->
     
   </div>
 
@@ -28,7 +28,7 @@
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
       {% if author.uri %}
-        <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
+        <li><a href="{{ author.uri }}" download><i class="fas fa-fw fa-link" aria-hidden="true"></i> CV</a></li>
       {% endif %}
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
