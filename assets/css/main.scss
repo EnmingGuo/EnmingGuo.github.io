@@ -108,7 +108,3 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-/* 隐藏"EDIT"和"SIGN"按钮 */
-li:not(:first-child) {
-  display: none;
-}
