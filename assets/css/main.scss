@@ -107,3 +107,8 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* 隐藏"EDIT"和"SIGN"按钮 */
+li:not(:first-child) {
+  display: none;
+}
