@@ -5,7 +5,7 @@
 - *2019.09 - 2023.07*, Undergraduate, School of Computer Science and Engineering, [Northeastern Univeristy](https://english.neu.edu.cn/), Shenyang(China).
 - *2016.09 - 2019.06*, Northeast Yucai School, Shenyang(China).
 
-# 🎖 Prizes
+# 🎖 Invited Talks
 - *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
 - *2021.06*, Audio & Speech Synthesis, Huawei internal talk
 - *2021.03*, Non-autoregressive Speech Synthesis, PaperWeekly & biendata \| [\[video\]](https://www.bilibili.com/video/BV1uf4y1t7Hr/)
