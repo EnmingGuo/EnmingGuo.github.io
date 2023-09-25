@@ -16,7 +16,7 @@
 - *2022.05* [Second Prize](Certificates/蓝桥二.jpg) The 13th “Blue Bridge Cup” National Software and Information Technology Professional Talent Competition
 - *2021.05* [Third Prize](Certificates/蓝桥三.jpg) The 12th “Blue Bridge Cup” National Software and Information Technology Professional Talent Competition
 - *2021.11* [Third Prize](Certificates/Triz三等奖.jpeg) The 7th Liaoning "Triz Cup" Collegiate Innovation Method Competition
-- *2022.08* [Third Prize](Certificates/网三.heic) 2021 Network Technology Challenge Tournament of China Collegiate Computer Competition
+- *2022.08* [Third Prize](Certificates/网三.png) 2021 Network Technology Challenge Tournament of China Collegiate Computer Competition
 
 
 
