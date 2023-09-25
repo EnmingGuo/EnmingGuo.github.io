@@ -6,3 +6,10 @@
 - *2021.12* Excellent Model Student of Northeastern University  (Top 1.4%, University-wide)
 - *2020.12* Excellent Model Student of Northeastern University  (Top 1.4%, University-wide)
 
+2021.06: [Outstanding Winner](Certificates/挑战杯特等奖.jpg), The 15th Challenge Cup Liaoning Collegiate Extracurricular Academic and Technological Works Competition
+2021.11: [Gold Award](Certificates/互联网+金奖.jpg): The 7th Liaoning "Internet+" Collegiate Innovation and Entrepreneurship Competition.
+2021.xx: First Prize: 2021 China Undergraduate Mathematical Contest in Modeling (Liaoning Region).
+2021.XX: Third Prize: 2021 Group Programming Ladder Tournament of China Collegiate Computer Competition (Finals).
+2021.XX: First Prize: 2021 National English Competition for College Students
+
+
