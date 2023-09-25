@@ -13,9 +13,10 @@
 - *2021.07* [First Prize](Certificates/中美创客一等奖.jpeg) 2021 China US Young Maker Competition (Shenyang Division)
 - *2020.10* [Silver Award](Certificates/辽宁省程序设计竞赛.jpeg) Liaoning Collegiate Programming Competition
 - *2021.06* [Second Prize](Certificates/红旗杯.png) The 15th Northeast Collegiate Programming Contest
-- *2021.05* [Second Prize](Certificates/蓝桥二.jpg) The 13th “Blue Bridge Cup” National Software and Information Technology Professional Talent Competition
+- *2022.05* [Second Prize](Certificates/蓝桥二.jpg) The 13th “Blue Bridge Cup” National Software and Information Technology Professional Talent Competition
+- *2021.05* [Third Prize](Certificates/蓝桥三.jpg) The 12th “Blue Bridge Cup” National Software and Information Technology Professional Talent Competition
 - *2021.11* [Third Prize](Certificates/Triz三等奖.jpeg) The 7th Liaoning "Triz Cup" Collegiate Innovation Method Competition
-
+- *2022.08* [Third Prize](Certificates/网三.heic) 2021 Network Technology Challenge Tournament of China Collegiate Computer Competition
 
 
 
