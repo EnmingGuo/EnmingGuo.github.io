@@ -9,14 +9,14 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Educations"
+    url: "/#-educations"
+
   - title: "Scholarships"
     url: "/#-scholarships"
 
   - title : "Awards"
     url: "/#-awards"
-
-  - title: "Educations"
-    url: "/#-educations"
 
   - title: "Contests"
     url: "/#-contests"
