@@ -4,8 +4,8 @@
 - *2021.09* [First Prize](Certificates/数学竞赛国赛一等奖.jpg), 2021 Chinese Undergraduate Mathematical Contest in Modeling (Liaoning Region)
 - *2021.05* [Third Prize](Certificates/天梯赛.png), 2021 Group Programming Ladder Tournament of China Collegiate Computer Competition (Finals)
 - *2021.05* [First Prize](Certificates/大英赛一等奖.jpg), 2021 National English Competition for College Students
-- *2021.08* [Third Prize](Certificates/物联网全国总决赛.jpg), 2021 "HUAWEI CUP" National Undergraduate IOT Design Contest (Finals)
-- *2021.08* [First Prize](Certificates/物联网+东北赛区.jpeg), 2021 "HUAWEI CUP" National Undergraduate IOT Design Contest (Northeastern China Division)
+- *2021.08* [Third Prize](Certificates/物联网全国总决赛.png), 2021 "HUAWEI CUP" National Undergraduate IOT Design Contest (Finals) (National level)
+- *2021.08* [First Prize](Certificates/物联网+东北赛区.jpeg), 2021 "HUAWEI CUP" National Undergraduate IOT Design Contest (Northeast China Division)
 - *2021.09* [First Prize](Certificates/海创一等奖.jpeg), 2021 "Haichuanghui Cup" National Collegiate Innovation and Entrepreneurship Competition for Smart City and Intelligent Construction
 - *2021.10* [Bronze Award](Certificates/互联网+总决赛.jpg) The 7th Chinese International "Internet+" College Student Innovation and Entrepreneurship Competition
 - *2021.11* [Honorable Mention](Certificates/ICPC 证书.png) The 46th ICPC Asia Regional contest at Jinan
