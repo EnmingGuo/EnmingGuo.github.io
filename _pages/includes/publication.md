@@ -5,8 +5,6 @@
 - ``Computer Software Copyright`` [Searching system of sequential discriminative subgraph of dynamic brain function network](publications/搜索.jpeg), Computer Software Copyright(China), **Enming Guo**, Jiazheng Zhang, Pinhua Qiu, et al.(No.2022SR0078905, Authorized date: 2022.01.12)
 - ``Computer Software Copyright`` [Auxiliary diagnosis of Alzheimer’s disease based on dynamic brain network](publications/动态.jpeg), Computer Software Copyright(China), Jiazheng Zhang, **Enming Guo**, Pinhua Qiu, et al.(No.2022SR0190037, Authorized date: 2022.01.29)
 
-## 📈 Business Forecasting
-- ``CCFC 2023`` [Future Business Forecasting Based on Multi-mode Feature Aggregation[J]](publications/Future.pdf), Computer Systems & Applications, Minghao Cui, Renbo Zhang, **Enming Guo**
-
 ## Others
 - ``EI 2021`` [Crowd Emergency Evacuation Model Based on Dynamic Emotion Drive[J]](publications/Crowd.pdf), Journal of Northeastern University (Natural Science), Jiayang Li, Jiafu Tang, **Enming Guo**
+- ``CCFC 2023`` [Future Business Forecasting Based on Multi-mode Feature Aggregation[J]](publications/Future.pdf), Computer Systems & Applications, Minghao Cui, Renbo Zhang, **Enming Guo**
