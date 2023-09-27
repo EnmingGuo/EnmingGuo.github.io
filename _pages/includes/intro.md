@@ -1,4 +1,4 @@
-I am now pursuing my master's degree of [Computer Science at University of California, San Diego](https://cse.ucsd.edu/) <img src='./images/ucsd_cse.png' style='width: 6em;'> as a research scientist now in Singapore, leading a fundamental audio/talkingface research group. 
+I am now pursuing my master's degree of [Computer Science at University of California, San Diego](https://cse.ucsd.edu/). <img src='./images/ucsd_cse.png' style='width: 5em;'> Before admitted to UCSD, I graduated from [School of Computer Science and Engineering, Northeastern University](http://www.cse.neu.edu.cn/) <img src='./images/NEU_CSE.png' style='width: 5em;'> with a bachelor's degree and as an exchange student, attended classes and engaged in scientific research at University of California, Irvine for one year. 
 
 I am now working on TTS, music generation, speech translation and audio-driven talking face generation research. If you are seeking any form of **academic cooperation**, please feel free to email me at [ren.yi@bytedance.com](mailto:ren.yi@bytedance.com).
 
@@ -11,6 +11,6 @@ My research interest includes speech synthesis, neural machine translation and a
 To promote the communication among the Chinese ML & NLP community, we (along with other 11 young scholars worldwide) founded the [MLNLP community](https://space.bilibili.com/168887299) in 2021. I am honored to be one of the chairs of the MLNLP committee.
 
 
-I am now pursuing my master's degree of Computer Science at University of California, San Diego.  Before admitted to UCSD, I graduated from School of Computer Science and Engineering, Northeastern University (东北大学计算机科学与工程学院) with a bachelor’s degree, and as an exchange student, studied a full-year of courses at University of California, Irvine.
+
 
 During the study at Northeastern University, I won the Baosteel Outstanding Student Scholarship (Top 0.02%, Nationwide) and the National Scholarships for twice (Top 1%), as well as the honorary titles of Outstanding Graduates of Liaoning Province (Top 2%, Provincial level) and Outstanding College Students of Shenyang City (Top 1%, Municipal level). At the same time, I also participated in many collegiate competitions and won nearly 20 competition awards. For more information, please feel free to email me at enguo@ucsd.edu.
