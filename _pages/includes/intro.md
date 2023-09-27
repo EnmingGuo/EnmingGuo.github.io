@@ -4,6 +4,6 @@ During the study at Northeastern University, I won the [Baosteel Outstanding Stu
 
 In college, I have participated in many collegiate competitions and won nearly 20 competition awards, among which are mathematical modeling competitions, programming contests, and innovation and entrepreneurship competitions.
 
-My research interest includes speech synthesis, neural machine translation and automatic music generation. I have published 50+ papers <a href='https://scholar.google.com/citations?user=4FA6C0AAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeurIPS, ICML, ICLR, KDD. 
+My research interest includes Management and Analysis of Big Graph, Graph Neural Network, Computer Vision and Database System. I have published several papers and created distinct projects in different fields during the undergraduate period. 
 
 For more information, please feel free to email me at [enguo@ucsd.edu](mailto:enguo@ucsd.edu).
