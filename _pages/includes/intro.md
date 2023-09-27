@@ -1,4 +1,4 @@
-I work at [Bytedance AI Lab, Speech & Audio Team](https://ailab.bytedance.com/) <img src='./images/tiktok.png' style='width: 6em;'> as a research scientist now in Singapore, leading a fundamental audio/talkingface research group. 
+I am now pursuing my master's degree of [Computer Science at University of California, San Diego](https://cse.ucsd.edu/) <img src='./images/ucsd_cse.png' style='width: 6em;'> as a research scientist now in Singapore, leading a fundamental audio/talkingface research group. 
 
 I am now working on TTS, music generation, speech translation and audio-driven talking face generation research. If you are seeking any form of **academic cooperation**, please feel free to email me at [ren.yi@bytedance.com](mailto:ren.yi@bytedance.com).
 
@@ -9,3 +9,8 @@ I won the [Baidu Scholarship](https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E5
 My research interest includes speech synthesis, neural machine translation and automatic music generation. I have published 50+ papers <a href='https://scholar.google.com/citations?user=4FA6C0AAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeurIPS, ICML, ICLR, KDD. 
 
 To promote the communication among the Chinese ML & NLP community, we (along with other 11 young scholars worldwide) founded the [MLNLP community](https://space.bilibili.com/168887299) in 2021. I am honored to be one of the chairs of the MLNLP committee.
+
+
+I am now pursuing my master's degree of Computer Science at University of California, San Diego.  Before admitted to UCSD, I graduated from School of Computer Science and Engineering, Northeastern University (东北大学计算机科学与工程学院) with a bachelor’s degree, and as an exchange student, studied a full-year of courses at University of California, Irvine.
+
+During the study at Northeastern University, I won the Baosteel Outstanding Student Scholarship (Top 0.02%, Nationwide) and the National Scholarships for twice (Top 1%), as well as the honorary titles of Outstanding Graduates of Liaoning Province (Top 2%, Provincial level) and Outstanding College Students of Shenyang City (Top 1%, Municipal level). At the same time, I also participated in many collegiate competitions and won nearly 20 competition awards. For more information, please feel free to email me at enguo@ucsd.edu.
