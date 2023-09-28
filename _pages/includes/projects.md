@@ -24,7 +24,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">System Architecture</div><img src='images/diffsinger.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">System Architecture</div><img src='images/OS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Imitative Linux File System**](https://github.com/EnmingGuo/NEU_File_Operating_System) 
