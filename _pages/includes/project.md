@@ -4,8 +4,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Aided Alzheimer’s Diagnosis System] \\
-
+Aided Alzheimer’s Diagnosis System 
 [**Project**](https://speechresearch.github.io/fastspeech/) 
 
 - FastSpeech is the first fully parallel end-to-end speech synthesis model.
