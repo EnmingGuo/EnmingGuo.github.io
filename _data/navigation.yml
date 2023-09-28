@@ -6,20 +6,20 @@ main:
 #  - title: "News"
 #    url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Projects"
-    url: "/#-projects"
-
   - title: "Educations"
     url: "/#-educations"
 
   - title: "Scholarships"
     url: "/#-scholarships"
 
-  - title : "Awards"
+  - title: "Awards"
     url: "/#-awards"
+
+  - title: "Publications"
+    url: "/#-publications"
+
+  - title: "Projects"
+    url: "/#-projects"
 
   - title: "Contests"
     url: "/#-contests"
