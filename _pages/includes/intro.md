@@ -4,6 +4,6 @@ During the study at Northeastern University, I won the [Baosteel Outstanding Stu
 
 In college, I have participated in many collegiate competitions and won nearly 20 competition awards, among which are mathematical modeling competitions, programming contests, and innovation and entrepreneurship competitions.
 
-My research interest includes Management and Analysis of Big Graph, Graph Neural Network, Computer Vision and Database System. I have published several papers and created distinct projects in different fields during the undergraduate period. 
+My research experience includes Management and Analysis of Big Graph, Graph Neural Network, Computer Vision and Database System. I have published several papers and created distinct projects in different fields during the undergraduate period. 
 
 For more information, please feel free to email me at [enguo@ucsd.edu](mailto:enguo@ucsd.edu).
