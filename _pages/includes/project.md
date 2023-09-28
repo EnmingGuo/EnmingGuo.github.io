@@ -1,5 +1,5 @@
 
-## 🛠️ Projects
+# 🛠️ Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">System Architecture</div><img src='images/AAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
