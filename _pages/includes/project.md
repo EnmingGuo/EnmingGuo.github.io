@@ -17,10 +17,22 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Database Management System](https://github.com/EnmingGuo/Database_Management_System) 
+[**Database Management System**](https://github.com/EnmingGuo/Database_Management_System) 
 
 - Designed the database hierarchical structure, including disk IO management, buffer management, records management layer, index management layer, query engine.
 - Completed the B+ tree coding and saved positioning time via node merging, separation, and rotation.
 - Utilized multiple methods to implement operators, such diverse JOIN algorithms (BNLJ, INLJ, GHJ).
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">System Architecture</div><img src='images/diffsinger.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Imitative Linux File System**](https://github.com/EnmingGuo/NEU_File_Operating_System) 
+
+- Designed disk external storage, partitioned disk blocks, designed file storage mode, and used Group Link algorithm to allocate free disk blocks.
+- Developed comprehensive function points, including cascade create, cascade delete, copy, cut, soft link and hard link.
+- Implemented the interaction based on imitative Linux query language and the parsing process of complex query functions.
+
 </div>
 </div>
