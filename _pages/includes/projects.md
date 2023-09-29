@@ -3,7 +3,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">System Architecture</div><img src='images/AAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Aided Alzheimer’s Diagnosis System**](https://github.com/EnmingGuo/UCI_EECS_101) 
+[**Aided Alzheimer’s Diagnosis System**](https://github.com/EnmingGuo/AAD_System) 
 
 - Designed Aided Alzheimer’s Diagnosis System based on evolving graph neural network.
 - Utilized [DPARSF](http://rfmri.org/DPARSF) toolkit to finish preprocessing on fMRIs from [ADNI](https://adni.loni.usc.edu/) and MATLAB to construct dynamic brain network.
