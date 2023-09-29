@@ -13,7 +13,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/DB.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/DB.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Database Management System**](https://github.com/EnmingGuo/Database_Management_System) 
@@ -24,7 +24,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">System Architecture</div><div align="center"><img src='images/OS.png' alt="sym" width="70%"></div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">System Architecture</div><div align="center"><img src='images/OS.png' alt="sym" width="60%"></div></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Imitative Linux File System**](https://github.com/EnmingGuo/NEU_File_Operating_System) 
