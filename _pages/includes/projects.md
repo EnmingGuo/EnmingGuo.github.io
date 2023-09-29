@@ -13,7 +13,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><div align="center"><img src='images/DB.png' alt="sym" width="80%"></div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DBMS Architecture</div><div align="center"><img src='images/DB.png' alt="sym" width="80%"></div></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Database Management System**](https://github.com/EnmingGuo/Database_Management_System) 
