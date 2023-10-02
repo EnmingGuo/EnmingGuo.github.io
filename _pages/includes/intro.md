@@ -2,8 +2,8 @@ I am now pursuing my master's degree of [Computer Science at University of Calif
 
 During the study at Northeastern University, I won the [Baosteel Outstanding Student Scholarship](Scholarships/宝.jpg) (Top 0.02%, National level) and the [National Scholarships](Scholarships/19国奖.png) for twice (Top 1%), which are two of the most valuable Chinese higher education scholarships. Besides, I also achieved the honor of being named as [Outstanding Graduates of Liaoning Province](awards/省优秀毕业生.jpg) (Top 2%, Provincial level) and [Outstanding College Students of Shenyang City](awards/沈优.png) (Top 1%, Municipal level).
 
-In addition, I have participated in many collegiate competitions and won nearly 20 competition awards, among which are mathematical modeling competitions, programming contests, and innovation and entrepreneurship competitions.
+Simultaneously, I have participated in many collegiate competitions and won nearly 20 competition awards, among which are mathematical modeling competitions, programming contests, and innovation and entrepreneurship competitions.
 
-At the same time, I have actively participated in numerous research projects across various domains and have authored several published papers. **My research experience includes Management and Analysis of Big Graph, Graph Neural Network, Computer Vision and Database System.** 
+In addition, I have actively participated in numerous research projects across various domains and have published several papers. **My research experience includes Management and Analysis of Big Graph, Graph Neural Network, Computer Vision and Database System.** 
 
 For more information, please feel free to email me at [enguo@ucsd.edu](mailto:enguo@ucsd.edu).
