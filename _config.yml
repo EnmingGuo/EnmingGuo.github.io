@@ -30,7 +30,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=Q_jSc_YAAAAJ&hl=en"
   email            : "enguo@ucsd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "resume/Enming Guo (System).pdf"
+  uri              : # "resume/Enming Guo (System).pdf"
   bitbucket        :
   codepen          :
   dribbble         :
