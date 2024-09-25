@@ -18,9 +18,10 @@
 
 [**Database Management System**](https://github.com/EnmingGuo/Database_Management_System) 
 
-- Designed the database hierarchical structure, including disk IO management, buffer management, records management layer, index management layer, query engine.
-- Completed the B+ tree coding and saved positioning time via node merging, separation, and rotation.
-- Utilized multiple methods to implement operators, such diverse JOIN algorithms (BNLJ, INLJ, GHJ).
+- Implemented a Relational Database System in C++ supporting records operations; database catalog and schema update; indexing and querying. Tested with over 100000 records/operation that finished in 60 seconds.
+- Developed a paged-file manager using a Heap file structure with slot directory for efficient variable length records management. Achieved O(1) record access through optimized slot indexing.
+- Developed an index manager using B+ Tree for indexing and conditional scanning on various attributes, optimizing queries, insertions, and deletions. Achieved logarithmic time complexity, resulting in a 60% reduction in query response time and a 30% improvement in data insertion speed compared to linear search methods.
+- Devised a query engine that supports filter, aggregation, block/index nested-loop join and grace hash join.
 </div>
 </div>
 
